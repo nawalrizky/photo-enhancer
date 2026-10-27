@@ -1,0 +1,8 @@
+/.gradle/
+/.idea/
+/local.properties
+**/build/
+app/src/main/cpp/onnxruntime/
+app/src/main/jniLibs/
+models/
+*.iml

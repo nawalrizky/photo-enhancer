@@ -1,0 +1,6 @@
+artifacts/
+logs/
+gradle-home/
+.venv-analysis/
+vendor/librknnrt.so
+android/.cxx/

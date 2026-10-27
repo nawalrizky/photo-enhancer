@@ -1,0 +1,92 @@
+[
+  {
+    "name": "v2.3.2",
+    "zipball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/zipball/refs/tags/v2.3.2",
+    "tarball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/tarball/refs/tags/v2.3.2",
+    "commit": {
+      "sha": "42aa1d426c0a9e0869b6374edba009f7208a1926",
+      "url": "https://api.github.com/repos/airockchip/rknn-toolkit2/commits/42aa1d426c0a9e0869b6374edba009f7208a1926"
+    },
+    "node_id": "REF_kwDOKYBli7ByZWZzL3RhZ3MvdjIuMy4y"
+  },
+  {
+    "name": "v2.3.0",
+    "zipball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/zipball/refs/tags/v2.3.0",
+    "tarball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/tarball/refs/tags/v2.3.0",
+    "commit": {
+      "sha": "a8dd54d41e92c95b4f95780ed0534362b2c98b92",
+      "url": "https://api.github.com/repos/airockchip/rknn-toolkit2/commits/a8dd54d41e92c95b4f95780ed0534362b2c98b92"
+    },
+    "node_id": "REF_kwDOKYBli7ByZWZzL3RhZ3MvdjIuMy4w"
+  },
+  {
+    "name": "v2.2.0",
+    "zipball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/zipball/refs/tags/v2.2.0",
+    "tarball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/tarball/refs/tags/v2.2.0",
+    "commit": {
+      "sha": "7efa763d1da04c4c4447fa5632dc2d9c94fb3063",
+      "url": "https://api.github.com/repos/airockchip/rknn-toolkit2/commits/7efa763d1da04c4c4447fa5632dc2d9c94fb3063"
+    },
+    "node_id": "REF_kwDOKYBli7ByZWZzL3RhZ3MvdjIuMi4w"
+  },
+  {
+    "name": "v2.1.0",
+    "zipball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/zipball/refs/tags/v2.1.0",
+    "tarball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/tarball/refs/tags/v2.1.0",
+    "commit": {
+      "sha": "deaba85fc437a28db0b0c29f27d8929f4c5816a1",
+      "url": "https://api.github.com/repos/airockchip/rknn-toolkit2/commits/deaba85fc437a28db0b0c29f27d8929f4c5816a1"
+    },
+    "node_id": "REF_kwDOKYBli7ByZWZzL3RhZ3MvdjIuMS4w"
+  },
+  {
+    "name": "v2.0.0-beta0",
+    "zipball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/zipball/refs/tags/v2.0.0-beta0",
+    "tarball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/tarball/refs/tags/v2.0.0-beta0",
+    "commit": {
+      "sha": "77b71094e08391c543d9c65fea5f7cf98cc16eee",
+      "url": "https://api.github.com/repos/airockchip/rknn-toolkit2/commits/77b71094e08391c543d9c65fea5f7cf98cc16eee"
+    },
+    "node_id": "REF_kwDOKYBli7ZyZWZzL3RhZ3MvdjIuMC4wLWJldGEw"
+  },
+  {
+    "name": "v1.6.0",
+    "zipball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/zipball/refs/tags/v1.6.0",
+    "tarball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/tarball/refs/tags/v1.6.0",
+    "commit": {
+      "sha": "b25dadacc24b88eb7dfcaa47c9c525ecca89b319",
+      "url": "https://api.github.com/repos/airockchip/rknn-toolkit2/commits/b25dadacc24b88eb7dfcaa47c9c525ecca89b319"
+    },
+    "node_id": "REF_kwDOKYBli7ByZWZzL3RhZ3MvdjEuNi4w"
+  },
+  {
+    "name": "v1.5.2",
+    "zipball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/zipball/refs/tags/v1.5.2",
+    "tarball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/tarball/refs/tags/v1.5.2",
+    "commit": {
+      "sha": "b2564c1b011b34cebf7a5d39b5c5d986fea8979c",
+      "url": "https://api.github.com/repos/airockchip/rknn-toolkit2/commits/b2564c1b011b34cebf7a5d39b5c5d986fea8979c"
+    },
+    "node_id": "REF_kwDOKYBli7ByZWZzL3RhZ3MvdjEuNS4y"
+  },
+  {
+    "name": "v1.5.0",
+    "zipball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/zipball/refs/tags/v1.5.0",
+    "tarball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/tarball/refs/tags/v1.5.0",
+    "commit": {
+      "sha": "d333c7d9d05b2cf8fc4605f395a184b3bd6bd2f5",
+      "url": "https://api.github.com/repos/airockchip/rknn-toolkit2/commits/d333c7d9d05b2cf8fc4605f395a184b3bd6bd2f5"
+    },
+    "node_id": "REF_kwDOKYBli7ByZWZzL3RhZ3MvdjEuNS4w"
+  },
+  {
+    "name": "v1.4.0",
+    "zipball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/zipball/refs/tags/v1.4.0",
+    "tarball_url": "https://api.github.com/repos/airockchip/rknn-toolkit2/tarball/refs/tags/v1.4.0",
+    "commit": {
+      "sha": "d8074d7954cc4d50af0add9c4375acd823987898",
+      "url": "https://api.github.com/repos/airockchip/rknn-toolkit2/commits/d8074d7954cc4d50af0add9c4375acd823987898"
+    },
+    "node_id": "REF_kwDOKYBli7ByZWZzL3RhZ3MvdjEuNC4w"
+  }
+]

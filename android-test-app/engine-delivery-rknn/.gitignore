@@ -1,0 +1,6 @@
+*.aar
+*.rknn
+*.apk
+consumer-example/.gradle/
+consumer-example/local.properties
+consumer-example/**/build/

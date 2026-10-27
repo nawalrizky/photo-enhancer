@@ -1,0 +1,21 @@
+{
+  "sdk_version": "1.1.0",
+  "api_class": "com.enhancer.rknn.RknnEnhancer",
+  "target": "rk3576",
+  "abi": "arm64-v8a",
+  "min_sdk": 28,
+  "validated_android": 14,
+  "validated_driver": "0.9.8",
+  "rknn_toolkit": "2.3.2",
+  "rknn_runtime_commit": "42aa1d426c0a9e0869b6374edba009f7208a1926",
+  "runtime_sha256": "07a8398be5caed21a1998ffa313e0425bb9e76b154a8dbbc667d71722c009351",
+  "model": "GFPGANv1.4_rgb_bias_consolidated_rk3576.rknn",
+  "model_bytes": 458741110,
+  "model_sha256": "ac5cb93f894599e26d4a3ea71f0b546073678c86016f15ca21b1efcadc4b7a1c",
+  "source_precision": "FP32 ONNX with validated RGB bias consolidation",
+  "native_input": "FP16 NHWC",
+  "retrieved_output": "FP32 NCHW",
+  "detector_included": false,
+  "network_permission": false,
+  "packaged_runtime_sha256": "d06271a1e7b1640a1dc332219241d7bc23afae24c5290fb23b12bc3753c61517"
+}

@@ -1,0 +1,23 @@
+services:
+  enhancer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enhancer:latest
+    container_name: enhancer_container
+    ports:
+      - "8067:80"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    environment:
+      - ENHANCE_METHOD=gfpgan
+      - BACKGROUND_ENHANCEMENT=True
+    restart: unless-stopped
+    volumes:
+      - ./input:/usr/app/input
+      - ./output:/usr/app/output

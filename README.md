@@ -1,4 +1,22 @@
 # AI Photo Enhancer
+
+## Android RK3576 / RKNN SDK
+
+This fork includes the Android CPU SDK, RKNN backend, model conversion tools,
+and a standalone AAR consumer example for RK3576 devices.
+
+- [Ringkasan dalam Bahasa Indonesia](PHASE3_SUMMARY_ID.md)
+- [Android test app and build instructions](android-test-app/README.md)
+- [RKNN execution results](PHASE3_RKNN_EXECUTION_RESULTS.md)
+- [RKNN SDK integration guide](android-test-app/engine-delivery-rknn/INTEGRATION.md)
+- [Conversion/runtime setup](android-test-app/rknn-experiment/README.md)
+
+Model weights (`.onnx`, `.rknn`, `.pth`), native dependency binaries, AAR/APK/ZIP
+deliveries, build caches, device logs and generated comparison images are excluded
+from Git. Provision the model/runtime using the linked guides or the separately
+distributed SDK package before building or running the Android examples. Gradle
+wrapper JARs and the original benchmark input images are included.
+
 <a name="readme-top"></a>
 
 <!-- ABOUT THE PROJECT -->
